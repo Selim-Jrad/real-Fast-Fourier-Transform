@@ -10,4 +10,5 @@ Luckily the Fast Fourier Transform (FFT) algorithm was co-discovered by James Co
 and John Tukey in 1965.
 While the underlying ideas had been explored earlier, their work significantly streamlined
 the algorithm and made it practical for use with digital computers. 
+
 TLDR: ts cool af.
